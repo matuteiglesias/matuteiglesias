@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br>
 
-Hola.. Soy Matías Iglesias, un científico y desarrollador, de Buenos Aires, Argentina. Tengo experiencia en ciencias exactas y me gusta analizar datos sociales. Ofrezco herramientas que nos permiten comprender mejor nuestra realidad social y actuar en consecuencia.
+Hola.. Soy Matías Iglesias, un científico y desarrollador de Argentina. Tengo experiencia en ciencias exactas y me gusta analizar datos sociales. Ofrezco herramientas que nos permiten comprender mejor nuestra realidad social y actuar en consecuencia.
 
 
 📫 Cómo contactarme: <a href="mailto:matuteiglesias@gmail.com">matuteiglesias@gmail.com</a>
