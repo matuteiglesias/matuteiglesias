@@ -25,7 +25,7 @@ Hola.. Soy Matías Iglesias, un científico y desarrollador, de Argentina. Tengo
 
 📫 Cómo contactarme: <a href="mailto:matuteiglesias@gmail.com">matuteiglesias@gmail.com</a>
 
-🔗 Mi sitio web: <a href="http://matuteiglesias.link/Mapas/">Pobreza en Argentina</a>
+🔗 Mi sitio web: <a href="http://matuteiglesias.link/Pobreza/">Pobreza en Argentina</a>
 
 💬 Econ <a href="http://matuteiglesias.link/dice/docs/Tesi_di_laurea_Pisa_Iglesias.pdf">PhD</a>
 
