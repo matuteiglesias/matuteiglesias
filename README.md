@@ -31,6 +31,20 @@ Hola.. Soy un científico y desarrollador, de Argentina. Tengo experiencia en ci
 
 📄 Descarga <a href="http://www.matuteiglesias.link/CV_2023-2.pdf">CV</a>
 
+🔬 Upcoming Research Papers
+
+- Title: "Modeling Economic Shocks: From Micro-Level Dynamics to Aggregate Volatility". Journal of Economic Dynamics and Control (JEDC)
+
+Objective: Develop advanced simulation and bootstrap methods to understand economic shocks from micro to macro levels.
+
+Key Points: Literature review, methodology for Gaussian and Laplace shocks, empirical validation with French trade data, robustness checks.
+
+
+- Title: "Estimating Aggregate Volatility from Micro-Level Shocks: Practical Applications and Insights". Journal of Applied Econometrics (JAE)
+
+Objective: Estimate aggregate volatility using linear approximations and analyze micro-level shocks with empirical data.
+
+Key Points: Methodology for linear approximations, empirical analysis of French trade data, practical applications for economic policy and risk management.
 
 <br>
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
