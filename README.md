@@ -33,7 +33,7 @@ Hola.. Soy un científico y desarrollador, de Argentina. Tengo experiencia en ci
 
 🔬 Upcoming Research Papers
 
-- Title: "Modeling Economic Shocks: From Micro-Level Dynamics to Aggregate Volatility". Journal of Economic Dynamics and Control (JEDC)
+- "Modeling Economic Shocks: From Micro-Level Dynamics to Aggregate Volatility". Journal of Economic Dynamics and Control (JEDC)
 
 <!--
 Objective: Develop advanced simulation and bootstrap methods to understand economic shocks from micro to macro levels.
@@ -41,7 +41,7 @@ Objective: Develop advanced simulation and bootstrap methods to understand econo
 Key Points: Literature review, methodology for Gaussian and Laplace shocks, empirical validation with French trade data, robustness checks.
 -->
 
-- Title: "Estimating Aggregate Volatility from Micro-Level Shocks: Practical Applications and Insights". Journal of Applied Econometrics (JAE)
+- "Estimating Aggregate Volatility from Micro-Level Shocks: Practical Applications and Insights". Journal of Applied Econometrics (JAE)
 
 <!--
 Objective: Estimate aggregate volatility using linear approximations and analyze micro-level shocks with empirical data.
