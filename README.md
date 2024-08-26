@@ -53,6 +53,14 @@ Key Points: Methodology for linear approximations, empirical analysis of French 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" /> -->
 
 
+
+💡 **Check Out My Latest Course Notes on Economic Networks**:
+
+I recently compiled a comprehensive set of notes on economic networks, the Leontieff Input-Output model, and the propagation of economic shocks. These notes cover key concepts, theoretical frameworks, and analytical techniques for understanding economic volatility.
+
+**[👉 Click here to view and download the notes](http://www.matuteiglesias.link/cv/Economic_Networks_Notes.pdf)**
+
+
 <!-- 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matuteiglesias" alt="matuteiglesias" /> </p>
