@@ -66,27 +66,14 @@ I recently compiled a comprehensive set of notes on economic networks, the Leont
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matuteiglesias" alt="matuteiglesias" /> </p>
 </br>
  -->
-
-
-<p align="left">
-    <a href="https://api.whatsapp.com/send?phone=5491158893867" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Whatsapp_glyph_svg-512.png" alt="whatsapp" height="30" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/matuteiglesias" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Twitter_glyph_svg-512.png" alt="twitter" height="30" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/matiasiglesias/" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Linkedin_glyph_svg-512.png" alt="linkedin" height="30" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
-
-
-<hr>
+ 
+<br>
 <details>
 <summary>📈 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=matuteiglesias&show_icons=true&theme=gotham" alt="matuteiglesias" />
 </details>
 </br>
+
 <!--
 <a href="https://github.com/matuteiglesias/economia.gob.ar-datos" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matuteiglesias&repo=economia.gob.ar-datos&theme=dracula" />
@@ -95,6 +82,20 @@ I recently compiled a comprehensive set of notes on economic networks, the Leont
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matuteiglesias&repo=IPC-Argentina&theme=dracula" />
 </a>
  -->
+
+<p align="center">
+    <a href="https://api.whatsapp.com/send?phone=5491158893867" target="_blank">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Whatsapp_glyph_svg-512.png" alt="whatsapp" height="15" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/matuteiglesias" target="_blank">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Twitter_glyph_svg-512.png" alt="twitter" height="15" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/matiasiglesias/" target="_blank">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Linkedin_glyph_svg-512.png" alt="linkedin" height="15" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+</p>
+
+
 <div align="center">
 No dudes en escribirme! ❤️
 </div>
