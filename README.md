@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> M. I.</h1>
 
 
+Matías Iglesias. 🌟 Científico de Datos | Economista 
+
+---
+
+
+
 
 <br>
 
-Hola.. Soy un científico y desarrollador, de Argentina. Tengo experiencia en ciencias exactas y me gusta analizar datos sociales. Ofrezco herramientas que nos permiten comprender mejor nuestra realidad y actuar en consecuencia.
+Soy un profesional interdisciplinario. Ofrezco herramientas que nos permiten comprender mejor nuestra realidad y actuar en consecuencia.
 
-
-📫 Cómo contactarme: <a href="mailto:matuteiglesias@gmail.com">matuteiglesias@gmail.com</a>
-
-🔗 Mi sitio web: <a href="http://matuteiglesias.link/Pobreza/">Pobreza en Argentina</a>
 
 💬 Econ <a href="http://matuteiglesias.link/dice/docs/Tesi_di_laurea_Pisa_Iglesias.pdf">PhD</a>
 
@@ -53,12 +55,23 @@ Key Points: Methodology for linear approximations, empirical analysis of French 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" /> -->
 
 
+💡 **Check Out The Most Accurate Numbers:** [Pobreza en Argentina](http://matuteiglesias.link/Pobreza/)
 
-💡 **Check Out My Latest Course Notes on Economic Networks**:
-
+<!-- 
 I recently compiled a comprehensive set of notes on economic networks, the Leontieff Input-Output model, and the propagation of economic shocks. These notes cover key concepts, theoretical frameworks, and analytical techniques for understanding economic volatility.
 
 **[👉 Click here to view and download the notes](http://www.matuteiglesias.link/cv/Economic_Networks_Notes.pdf)**
+
+ -->
+
+
+
+## 🚀 Nuevas Oportunidades
+
+Si estás interesado en cómo la IA y la ciencia de datos pueden resolver desafíos hablemos!
+
+📧 **Correo**: [matuteiglesias@gmail.com](mailto:matuteiglesias@gmail.com)  
+🌐 **LinkedIn**: [Matías Iglesias](https://www.linkedin.com/in/matiasiglesias/)  
 
 
 <!-- 
