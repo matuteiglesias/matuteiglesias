@@ -1,23 +1,9 @@
 
-<!--
-**matuteiglesias/matuteiglesias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> M. I.</h1>
 
 
-Matías Iglesias. 🌟 Científico de Datos | Economista 
+🌟 **Científico de Datos | Economista | Innovacion en IA**
 
 ---
 
@@ -26,12 +12,28 @@ Matías Iglesias. 🌟 Científico de Datos | Economista
 
 <br>
 
-Soy un profesional interdisciplinario. Ofrezco herramientas que nos permiten comprender mejor nuestra realidad y actuar en consecuencia.
+Hola 👋, soy Matías, un profesional interdisciplinario apasionado por usar datos para entender el mundo y actuar sobre él. Sea el análisis de pobreza mas detallado de Argentina, sea una Tesis con las tecnicas computacionales mas potentes para reconstruir desde la micro a la macro, transformo datos en herramientas que generan impacto.
+
+## 🌍 **Sobre Mí**
+
+📊 **Data Science + Economía:** Con un doctorado en economía, combino habilidades analíticas avanzadas con un enfoque práctico en IA y ciencia de datos para resolver problemas complejos. Mis proyectos abarcan desde la visualización de tendencias socioeconómicas hasta el desarrollo de herramientas colaborativas y educativas.
+
+🔍 **Exploración e Innovación:** Mis repositorios reflejan intereses en análisis geoespacial, modelado económico, y creación de recursos educativos. Siempre busco nuevas formas de usar datos para mejorar políticas públicas y generar cambios significativos.
 
 
-💬 Econ <a href="http://matuteiglesias.link/dice/docs/Tesi_di_laurea_Pisa_Iglesias.pdf">PhD</a>
+💡 **Proyectos Destacados:**
+- 🗺️ **Atlas de Pobreza Argentina:** [Ver números actualizados](http://matuteiglesias.link/Pobreza/)
+- 📈 **Modelos de Shocks Económicos:** Desarrollo de simulaciones avanzadas para entender dinámicas macroeconómicas. (Econ <a href="http://matuteiglesias.link/dice/docs/Tesi_di_laurea_Pisa_Iglesias.pdf">PhD</a>)
+- 🌐 **Innovación en IA:** Exploración de herramientas de NLP para educación y automatización.
 
-📄 Descarga <a href="http://www.matuteiglesias.link/CV_2023-2.pdf">CV</a>
+## 📄 **Conecta Conmigo**
+
+💼 **CV:** [Descargar aquí](http://www.matuteiglesias.link/CV_2023-2.pdf)  
+📧 **Correo:** [matuteiglesias@gmail.com](mailto:matuteiglesias@gmail.com)  
+🌐 **LinkedIn:** [Matías Iglesias](https://www.linkedin.com/in/matiasiglesias/)  
+
+---
+
 
 🔬 Upcoming Research Papers
 
@@ -55,7 +57,16 @@ Key Points: Methodology for linear approximations, empirical analysis of French 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" /> -->
 
 
-💡 **Check Out The Most Accurate Numbers:** [Pobreza en Argentina](http://matuteiglesias.link/Pobreza/)
+## 🚀 **Mi GitHub en Breve**
+Aquí encontrarás proyectos que combinan ciencia de datos, geoespacial, y modelado económico, organizados con un enfoque en educación y políticas públicas. Mis repositorios incluyen:
+
+- Análisis y visualización de datos sociales y económicos.  
+- Herramientas educativas para aprender ciencia de datos.  
+- Automatización y desarrollo de pipelines de datos complejos.
+
+> 👀 **Explora mis repositorios destacados y encuentra soluciones innovadoras!**
+
+
 
 <!-- 
 I recently compiled a comprehensive set of notes on economic networks, the Leontieff Input-Output model, and the propagation of economic shocks. These notes cover key concepts, theoretical frameworks, and analytical techniques for understanding economic volatility.
@@ -65,27 +76,11 @@ I recently compiled a comprehensive set of notes on economic networks, the Leont
  -->
 
 
-
-## 🚀 Nuevas Oportunidades
-
-Si estás interesado en cómo la IA y la ciencia de datos pueden resolver desafíos hablemos!
-
-📧 **Correo**: [matuteiglesias@gmail.com](mailto:matuteiglesias@gmail.com)  
-🌐 **LinkedIn**: [Matías Iglesias](https://www.linkedin.com/in/matiasiglesias/)  
-
-
 <!-- 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matuteiglesias" alt="matuteiglesias" /> </p>
 </br>
  -->
- 
-<br>
-<details>
-<summary>📈 My GitHub Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=matuteiglesias&show_icons=true&theme=gotham" alt="matuteiglesias" />
-</details>
-</br>
 
 <!--
 <a href="https://github.com/matuteiglesias/economia.gob.ar-datos" target="_blank">
