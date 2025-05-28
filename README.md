@@ -12,13 +12,9 @@
 
 <br>
 
-Hola 👋, soy Matías, un profesional interdisciplinario apasionado por usar datos para entender el mundo y actuar sobre él. Sea el análisis de pobreza mas detallado de Argentina, sea una Tesis con las tecnicas computacionales mas potentes para reconstruir desde la micro a la macro, transformo datos en herramientas que generan impacto.
+## 🌍 **About**
 
-## 🌍 **Sobre Mí**
-
-📊 **Data Science + Economía:** Con un doctorado en economía, combino habilidades analíticas avanzadas con un enfoque práctico en IA y ciencia de datos para resolver problemas complejos. Mis proyectos abarcan desde la visualización de tendencias socioeconómicas hasta el desarrollo de herramientas colaborativas y educativas.
-
-🔍 **Exploración e Innovación:** Mis repositorios reflejan intereses en análisis geoespacial, modelado económico, y creación de recursos educativos. Siempre busco nuevas formas de usar datos para mejorar políticas públicas y generar cambios significativos.
+Soy PhD en Economía con formación en Física y una trayectoria activa en desarrollo institucional universitario. Mi trabajo combina análisis de datos, desarrollo de software y diseño de sistemas orientados a resolver cuellos de botella en políticas públicas, educación superior y empleo. Construyo infraestructuras que automatizan tareas críticas y habilitan acceso a información distribuida.
 
 
 💡 **Proyectos Destacados:**
