@@ -2,74 +2,73 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> M. I.</h1>
 
+**PhD en Economía | Ciencia de Datos | Análisis Espacial y Automatización**
 
-🌟 **Científico de Datos | Economista | Innovacion en IA**
-
----
-
-
-
-
-<br>
-
-## 🌍 **About**
-
-Soy PhD en Economía con formación en Física y una trayectoria activa en desarrollo institucional universitario. Mi trabajo combina análisis de datos, desarrollo de software y diseño de sistemas orientados a resolver cuellos de botella en políticas públicas, educación superior y empleo. Construyo infraestructuras que automatizan tareas críticas y habilitan acceso a información distribuida.
-
-
-💡 **Proyectos Destacados:**
-- 🗺️ **Atlas de Pobreza Argentina:** [Ver números actualizados](http://matuteiglesias.link/Pobreza/)
-- 📈 **Modelos de Shocks Económicos:** Desarrollo de simulaciones avanzadas para entender dinámicas macroeconómicas. (Econ <a href="http://matuteiglesias.link/dice/docs/Tesi_di_laurea_Pisa_Iglesias.pdf">PhD</a>)
-- 🌐 **Innovación en IA:** Exploración de herramientas de NLP para educación y automatización.
-
-## 📄 **Conecta Conmigo**
-
-💼 **CV:** [Descargar aquí](http://www.matuteiglesias.link/CV_2023-2.pdf)  
-📧 **Correo:** [matuteiglesias@gmail.com](mailto:matuteiglesias@gmail.com)  
-🌐 **LinkedIn:** [Matías Iglesias](https://www.linkedin.com/in/matiasiglesias/)  
+> Investigo, programo y diseño infraestructuras inteligentes para política pública, desarrollo económico y educación.
 
 ---
 
+## 🔍 Sobre mí
 
-🔬 Upcoming Research Papers
+Soy investigador y desarrollador con formación en Física (UBA) y Economía (PhD). Mi trabajo se sitúa en la intersección entre ciencia aplicada, sistemas complejos y desarrollo institucional. Desarrollo herramientas para:
+- analizar patrones espaciales y económicos,
+- automatizar flujos de datos,
+- y facilitar el acceso abierto al conocimiento y la evidencia.
 
-- "Modeling Economic Shocks: From Micro-Level Dynamics to Aggregate Volatility". Journal of Economic Dynamics and Control (JEDC)
+Mis contribuciones combinan modelado económico, aprendizaje automático, infraestructura de datos y visualización para transformar cómo entendemos fenómenos sociales.
 
-<!--
-Objective: Develop advanced simulation and bootstrap methods to understand economic shocks from micro to macro levels.
+---
 
-Key Points: Literature review, methodology for Gaussian and Laplace shocks, empirical validation with French trade data, robustness checks.
--->
+## 🚩 Proyectos clave
 
-- "Estimating Aggregate Volatility from Micro-Level Shocks: Practical Applications and Insights". Journal of Applied Econometrics (JAE)
+🔹 [**microdatos-EPH-INDEC**](https://github.com/matuteiglesias/microdatos-EPH-INDEC)  
+Scripts y flujos automáticos para bajar, descomprimir y procesar la Encuesta Permanente de Hogares de Argentina.
 
-<!--
-Objective: Estimate aggregate volatility using linear approximations and analyze micro-level shocks with empirical data.
+🔹 [**indice-pobreza-UBA**](https://github.com/matuteiglesias/indice-pobreza-UBA)  
+Índice actualizado de pobreza basado en microdatos, usado en el [Atlas de Pobreza](http://matuteiglesias.link/Pobreza/).
 
-Key Points: Methodology for linear approximations, empirical analysis of French trade data, practical applications for economic policy and risk management.
--->
-<br>
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" /> -->
+🔹 [**encuestador-de-hogares**](https://github.com/matuteiglesias/encuestador-de-hogares)  
+Random Forests para predecir condiciones de hogares a partir de censos + EPH.
 
+🔹 [**IPC-Argentina**](https://github.com/matuteiglesias/IPC-Argentina)  
+Serie de tiempo del IPC nacional construida a partir de múltiples fuentes.
 
-## 🚀 **Mi GitHub en Breve**
-Aquí encontrarás proyectos que combinan ciencia de datos, geoespacial, y modelado económico, organizados con un enfoque en educación y políticas públicas. Mis repositorios incluyen:
+🔹 [**economia.gob.ar-datos**](https://github.com/matuteiglesias/economia.gob.ar-datos)  
+Repositorio abierto para descargar y procesar todas las series económicas del Ministerio de Economía de Argentina.
 
-- Análisis y visualización de datos sociales y económicos.  
-- Herramientas educativas para aprender ciencia de datos.  
-- Automatización y desarrollo de pipelines de datos complejos.
+🔹 [**elecciones-ARG**](https://github.com/matuteiglesias/elecciones-ARG)  
+Visualización de tendencias electorales y resultados políticos con mapas interactivos.
 
-> 👀 **Explora mis repositorios destacados y encuentra soluciones innovadoras!**
+---
 
+## 📄 Publicaciones
 
+📘 “The Overlooked Insights from Correlation Structures in Economic Geography”  
+Papers in Evolutionary Economic Geography, Working Paper #21.05  
+📎 [PDF (Utrecht)](http://econ.geo.uu.nl/peeg/peeg2105.pdf) | [ResearchGate](https://www.researchgate.net/publication/352759723)
 
-<!-- 
-I recently compiled a comprehensive set of notes on economic networks, the Leontieff Input-Output model, and the propagation of economic shocks. These notes cover key concepts, theoretical frameworks, and analytical techniques for understanding economic volatility.
+📕 “Measuring Size Distortions of Location Quotients”  
+ResearchGate preprint  
+📎 [PDF](https://www.researchgate.net/profile/Matias-Iglesias-9/publication/352759723_Measuring_Size_Distortions_of_Location_Quotients/links/6785a62843ffa93f52d29389)
 
-**[👉 Click here to view and download the notes](http://www.matuteiglesias.link/cv/Economic_Networks_Notes.pdf)**
+---
 
- -->
+## 📬 Contacto y redes
+
+- 📧 [matuteiglesias@gmail.com](mailto:matuteiglesias@gmail.com)
+- 🌐 [CV](http://matuteiglesias.link/CV_2023-2.pdf)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/matiasiglesias/)
+- 🐦 [Twitter](https://twitter.com/matuteiglesias)
+
+---
+
+## 🧭 Temas de interés
+
+- 🔬 Ciencia de datos aplicada a políticas públicas
+- 🗺️ Geografía económica y urbana
+- 🏛️ Automatización y transparencia institucional
+- 🤖 IA en educación y análisis político
+
 
 
 <!-- 
