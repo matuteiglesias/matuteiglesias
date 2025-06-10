@@ -21,6 +21,9 @@ Mis contribuciones combinan modelado económico, aprendizaje automático, infrae
 
 ## 🚩 Proyectos clave
 
+🔹 [**PhD Thesis**](https://thesis.matuteiglesias.link)  
+Explora mi tesis doctoral sobre la agregación de volatilidad de la micro a la macro, con secciones navegables y documentación interactiva.
+
 🔹 [**microdatos-EPH-INDEC**](https://github.com/matuteiglesias/microdatos-EPH-INDEC)  
 Scripts y flujos automáticos para bajar, descomprimir y procesar la Encuesta Permanente de Hogares de Argentina.
 
