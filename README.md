@@ -17,6 +17,8 @@ Soy investigador y desarrollador con formación en Física (UBA) y Economía (Ph
 
 Mis contribuciones combinan modelado económico, aprendizaje automático, infraestructura de datos y visualización para transformar cómo entendemos fenómenos sociales.
 
+Actualmente impulso **[Terra](https://github.com/terra-foundation)**, un laboratorio abierto de herramientas tácticas de IA y automatización ciudadana.
+
 ---
 
 ## 🚩 Proyectos clave
