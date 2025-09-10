@@ -1,110 +1,107 @@
 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> M. I. - Matías Nehuén Iglesias </h1>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> M. I.</h1>
 
-**PhD en Economía | Ciencia de Datos | Análisis Espacial y Automatización**
+**Data Scientist · PhD Economics · Physics MSc**
 
-> Investigo, programo y diseño infraestructuras inteligentes para política pública, desarrollo económico y educación.
+Constructor de sistemas de datos y automatización para sector público y organizaciones con misión.
 
----
+Diseño y opero pipelines reproducibles, convierto investigación en productos funcionales y automatizo procesos con agentes y CI.
 
-## 🔍 Sobre mí
-
-Soy investigador y desarrollador con formación en Física (UBA) y Economía (PhD). Mi trabajo se sitúa en la intersección entre ciencia aplicada, sistemas complejos y desarrollo institucional. Desarrollo herramientas para:
-- analizar patrones espaciales y económicos,
-- automatizar flujos de datos,
-- y facilitar el acceso abierto al conocimiento y la evidencia.
-
-Mis contribuciones combinan modelado económico, aprendizaje automático, infraestructura de datos y visualización para transformar cómo entendemos fenómenos sociales.
-
-Actualmente impulso **[Terra](https://github.com/terra-foundation)**, un laboratorio abierto de herramientas tácticas de IA y automatización ciudadana.
+> Builder‑researcher. I ship reproducible data systems, bring research to product, and automate monitoring with agents and CI.
 
 ---
 
-## 🚩 Proyectos clave
+## Router rápido
 
-🔹 [**PhD Thesis**](https://thesis.matuteiglesias.link)  
-Explora mi tesis doctoral sobre la agregación de volatilidad de la micro a la macro, con secciones navegables y documentación interactiva.
+* **Infra de datos públicos**
+  ETL replicable, catálogos, mapas y documentación operativa.
 
-🔹 [**microdatos-EPH-INDEC**](https://github.com/matuteiglesias/microdatos-EPH-INDEC)  
-Scripts y flujos automáticos para bajar, descomprimir y procesar la Encuesta Permanente de Hogares de Argentina.
+  * Atlas de Pobreza · docs: [https://matuteiglesias.github.io/atlas-site/docs/intro/](https://matuteiglesias.github.io/atlas-site/docs/intro/)
+  * Mapa interactivo · demo: [http://matuteiglesias.link/Pobreza/](http://matuteiglesias.link/Pobreza/)
+  * Metodologías · guía: [https://matuteiglesias.github.io/atlas-site/](https://matuteiglesias.github.io/atlas-site/)
 
-🔹 [**indice-pobreza-UBA**](https://github.com/matuteiglesias/indice-pobreza-UBA)  
-Índice actualizado de pobreza basado en microdatos, usado en el [Atlas de Pobreza](http://matuteiglesias.link/Pobreza/).
+* **Investigación que aterriza en producto**
+  De micro a macro y de paper a herramienta concreta.
 
-🔹 [**encuestador-de-hogares**](https://github.com/matuteiglesias/encuestador-de-hogares)  
-Random Forests para predecir condiciones de hogares a partir de censos + EPH.
+  * Tesis · intro: [https://thesis.matuteiglesias.link/docs/intro](https://thesis.matuteiglesias.link/docs/intro)
+  * Sitio principal · narrativa ejecutiva: [https://main.matuteiglesias.link/](https://main.matuteiglesias.link/)
 
-🔹 [**IPC-Argentina**](https://github.com/matuteiglesias/IPC-Argentina)  
-Serie de tiempo del IPC nacional construida a partir de múltiples fuentes.
+* **Automatización y agentes**
+  Monitoreo, clasificación, resúmenes y publicación programada.
 
-🔹 [**economia.gob.ar-datos**](https://github.com/matuteiglesias/economia.gob.ar-datos)  
-Repositorio abierto para descargar y procesar todas las series económicas del Ministerio de Economía de Argentina.
+  * Dev Journal · logs técnicos y decisiones: [https://journal.matuteiglesias.link/](https://journal.matuteiglesias.link/)
 
-🔹 [**elecciones-ARG**](https://github.com/matuteiglesias/elecciones-ARG)  
-Visualización de tendencias electorales y resultados políticos con mapas interactivos.
-
----
-
-## 📄 Publicaciones
-
-📘 “The Overlooked Insights from Correlation Structures in Economic Geography”  
-Papers in Evolutionary Economic Geography, Working Paper #21.05  
-📎 [PDF (Utrecht)](http://econ.geo.uu.nl/peeg/peeg2105.pdf) | [ResearchGate](https://www.researchgate.net/publication/352759723)
-
-📕 “Measuring Size Distortions of Location Quotients”  
-ResearchGate preprint  
-📎 [PDF](https://www.researchgate.net/profile/Matias-Iglesias-9/publication/352759723_Measuring_Size_Distortions_of_Location_Quotients/links/6785a62843ffa93f52d29389)
+> Algunos de mis repos principales anclados debajo.
 
 ---
 
-## 📬 Contacto y redes
+## Repositorios destacados
 
-- 📧 [matuteiglesias@gmail.com](mailto:matuteiglesias@gmail.com)
-- 🌐 [CV](http://matuteiglesias.link/CV_2023-2.pdf)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/matiasiglesias/)
-- 🌐 [Website](https://main.matuteiglesias.link/)
-- 🐦 [Twitter](https://twitter.com/matuteiglesias)
+Selección curada con alta señal. Documentación clara y demos corribles.
+
+* **atlas-site**
+  
+  Documentación técnica del Atlas de Pobreza, playbooks, operación y versiones públicas.
+  
+  Repo: [https://github.com/matuteiglesias/atlas-site](https://github.com/matuteiglesias/atlas-site)
+  
+  Docs: [https://matuteiglesias.github.io/atlas-site/docs/intro/](https://matuteiglesias.github.io/atlas-site/docs/intro/)
+
+* **microdatos-EPH-INDEC**
+  
+  Pipeline de ingestión y limpieza con convenciones de versión y reproducibilidad.
+
+  Repo: [https://github.com/matuteiglesias/microdatos-EPH-INDEC](https://github.com/matuteiglesias/microdatos-EPH-INDEC)
+
+* **indice-pobreza-UBA**
+
+  Cálculo de indicadores y outputs usados en mapas y reportes.
+
+  Repo: [https://github.com/matuteiglesias/indice-pobreza-UBA](https://github.com/matuteiglesias/indice-pobreza-UBA)
+
+  Mapas: [http://matuteiglesias.link/Pobreza/](http://matuteiglesias.link/Pobreza/)
+
+* **encuestador-de-hogares**
+
+  Modelos para predecir condiciones de hogares con censos y EPH.
+
+  Repo: [https://github.com/matuteiglesias/encuestador-de-hogares](https://github.com/matuteiglesias/encuestador-de-hogares)
+
+* **elecciones-ARG**
+
+  Visualizaciones y mapas electorales.
+
+  Repo: [https://github.com/matuteiglesias/elecciones-ARG](https://github.com/matuteiglesias/elecciones-ARG)
 
 ---
 
-## 🧭 Temas de interés
+## Cómo evalúo y construyo
 
-- 🔬 Ciencia de datos aplicada a políticas públicas
-- 🗺️ Geografía económica y urbana
-- 🏛️ Automatización y transparencia institucional
-- 🤖 IA en educación y análisis político
+1. **Reproducibilidad mínima viable**
 
+2. **Observabilidad**
 
+3. **CI y documentacion**
 
-<!-- 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matuteiglesias" alt="matuteiglesias" /> </p>
-</br>
- -->
+4. **Casos y demos ejecutables**
 
-<!--
-<a href="https://github.com/matuteiglesias/economia.gob.ar-datos" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matuteiglesias&repo=economia.gob.ar-datos&theme=dracula" />
-</a>
-<a href="https://github.com/matuteiglesias/IPC-Argentina" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matuteiglesias&repo=IPC-Argentina&theme=dracula" />
-</a>
- -->
+---
 
-<p align="center">
-    <a href="https://api.whatsapp.com/send?phone=5491158893867" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Whatsapp_glyph_svg-512.png" alt="whatsapp" height="15" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/matuteiglesias" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Twitter_glyph_svg-512.png" alt="twitter" height="15" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/matiasiglesias/" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Linkedin_glyph_svg-512.png" alt="linkedin" height="15" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
+## Mapa de navegación
 
+* Atlas · docs: [https://matuteiglesias.github.io/atlas-site/docs/intro/](https://matuteiglesias.github.io/atlas-site/docs/intro/)
+* Tesis: [https://thesis.matuteiglesias.link/docs/intro](https://thesis.matuteiglesias.link/docs/intro)
+* Journal: [https://journal.matuteiglesias.link/](https://journal.matuteiglesias.link/)
+* Main site: [https://main.matuteiglesias.link/](https://main.matuteiglesias.link/)
+* Mapas: [http://matuteiglesias.link/Pobreza/](http://matuteiglesias.link/Pobreza/)
 
-<div align="center">
-No dudes en escribirme! ❤️
-</div>
+---
+
+## Roles que me caracterizan
+
+* Data Scientist con foco en ETL y modelos reproducibles
+* ML Engineer orientado a pipelines y puesta en producción
+* Backend Engineer con APIs de datos y servicios de ML
+
+Para consultoría o colaboraciones: `matuteiglesias@gmail.com` y [Linkedin](https://www.linkedin.com/in/matiasiglesias/).
