@@ -21,11 +21,13 @@ Diseño y opero pipelines reproducibles, convierto investigación en productos f
   * Mapa interactivo · demo: [http://matuteiglesias.link/Pobreza/](http://matuteiglesias.link/Pobreza/)
   * Metodologías · guía: [https://matuteiglesias.github.io/atlas-site/](https://matuteiglesias.github.io/atlas-site/)
 
-* **Investigación que aterriza en producto**
-  De micro a macro y de paper a herramienta concreta.
+* **Científico aplicado**  → entregables reproducibles. Física (UBA) y PhD en Economía (Pisa).
+  
+  * **Tesis (Aggregation)**: micro→macro con validación →   [thesis.matuteiglesias.link/docs/category/aggregation](https://thesis.matuteiglesias.link/docs/category/aggregation)
+    
+  * Sitio principal · router ejecutivo: [https://main.matuteiglesias.link/](https://main.matuteiglesias.link/)
 
-  * Tesis · intro: [https://thesis.matuteiglesias.link/docs/intro](https://thesis.matuteiglesias.link/docs/intro)
-  * Sitio principal · narrativa ejecutiva: [https://main.matuteiglesias.link/](https://main.matuteiglesias.link/)
+  * (preprints/afiliaciones) →   [ResearchGate](https://www.researchgate.net/profile/Matias-Iglesias-9)
 
 * **Automatización y agentes**
   Monitoreo, clasificación, resúmenes y publicación programada.
@@ -34,6 +36,9 @@ Diseño y opero pipelines reproducibles, convierto investigación en productos f
 
 > Algunos de mis repos principales anclados debajo.
 
+
+
+    
 ---
 
 ## Repositorios destacados
@@ -104,4 +109,4 @@ Selección curada con alta señal. Documentación clara y demos corribles.
 * ML Engineer orientado a pipelines y puesta en producción
 * Backend Engineer con APIs de datos y servicios de ML
 
-Para consultoría o colaboraciones: `matuteiglesias@gmail.com` y [Linkedin](https://www.linkedin.com/in/matiasiglesias/).
+Para consultoría o colaboraciones: `matuteiglesias@gmail.com` - [Linkedin](https://www.linkedin.com/in/matiasiglesias/).
