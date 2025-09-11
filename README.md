@@ -79,27 +79,6 @@ Selección curada con alta señal. Documentación clara y demos corribles.
 
   Repo: [https://github.com/matuteiglesias/elecciones-ARG](https://github.com/matuteiglesias/elecciones-ARG)
 
----
-
-## Cómo evalúo y construyo
-
-1. **Reproducibilidad mínima viable**
-
-2. **Observabilidad**
-
-3. **CI y documentacion**
-
-4. **Casos y demos ejecutables**
-
----
-
-## Mapa de navegación
-
-* Atlas · docs: [https://matuteiglesias.github.io/atlas-site/docs/intro/](https://matuteiglesias.github.io/atlas-site/docs/intro/)
-* Tesis: [https://thesis.matuteiglesias.link/docs/intro](https://thesis.matuteiglesias.link/docs/intro)
-* Journal: [https://journal.matuteiglesias.link/](https://journal.matuteiglesias.link/)
-* Main site: [https://main.matuteiglesias.link/](https://main.matuteiglesias.link/)
-* Mapas: [http://matuteiglesias.link/Pobreza/](http://matuteiglesias.link/Pobreza/)
 
 ---
 
