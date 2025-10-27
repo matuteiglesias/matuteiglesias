@@ -74,8 +74,9 @@ Selección curada con alta señal. Documentación clara y demos corribles.
   Repo: [https://github.com/matuteiglesias/encuestador-de-hogares](https://github.com/matuteiglesias/encuestador-de-hogares)
 
 * **elecciones-ARG**
+  [![NEW](https://img.shields.io/badge/NEW-Actualizado%202025-red.svg)]()
 
-  Visualizaciones y mapas electorales.
+  Infraestructura de datos para visualizaciones y mapas electorales.
 
   Repo: [https://github.com/matuteiglesias/elecciones-ARG](https://github.com/matuteiglesias/elecciones-ARG)
 
