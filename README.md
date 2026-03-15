@@ -89,8 +89,8 @@ Pinned repositories below are the best starting point.
 
 - **GitHub:** [github.com/matuteiglesias](https://github.com/matuteiglesias)
 - **Main site:** [main.matuteiglesias.link](https://main.matuteiglesias.link)
-- **LinkedIn:** add your preferred LinkedIn URL here
-- **Email:** add your preferred contact email here
+- **LinkedIn:** [matiasiglesias](www.linkedin.com/in/matiasiglesias/)
+- **Email:** matuteiglesias@gmail.com
 
 ---
 
