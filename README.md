@@ -1,7 +1,7 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> M. I. - Matías Nehuén Iglesias </h1>
-
-# Matías Iglesias
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  
+# M. I. Matías Iglesias
 
 **AI Systems Engineer, Data Scientist, and Economist building live intelligence, civic-data, and knowledge systems.**
 
@@ -49,7 +49,7 @@ Examples:
 - **Tech profile:** [main.matuteiglesias.link/docs/General/tech](https://main.matuteiglesias.link/docs/General/tech)
 - **Civic profile:** [main.matuteiglesias.link/docs/General/civic](https://main.matuteiglesias.link/docs/General/civic)
 - **Media Monitor:** [mediamonitor-psi.vercel.app](https://mediamonitor-psi.vercel.app/)
-- **Poverty Atlas:** [argentine-poverty-atlas.vercel.app](https://argentine-poverty-atlas.vercel.app/)
+- **Poverty Atlas:** [argentine-poverty-atlas.vercel.app](http://matuteiglesias.link/Pobreza/)
 - **Thesis portal:** [thesis.matuteiglesias.link](https://thesis.matuteiglesias.link/)
 - **Dev journal:** [journal.matuteiglesias.link](https://journal.matuteiglesias.link/)
 
