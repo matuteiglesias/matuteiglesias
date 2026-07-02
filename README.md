@@ -3,62 +3,58 @@
   
 # M. I. Matías Iglesias
 
-**AI Systems Engineer, Data Scientist, and Economist building live intelligence, civic-data, and knowledge systems.**
+**Senior Data & AI Engineer building reliable systems for data, documents, retrieval, and automation.**
 
-I design and ship systems that turn information into structured, usable outputs: news pipelines, public-data products, civic information tools, research-to-web infrastructure, and operational AI workflows.
+I build Python/SQL systems that turn messy information into usable infrastructure: data pipelines, document-processing workflows, retrieval systems, dashboards, publishing workflows, and AI-assisted automation tools.
 
-My work sits at the intersection of:
-
-- **AI systems and automation**
-- **data engineering and information pipelines**
-- **civic and institutional intelligence**
-- **research translated into public-facing products**
+My background combines software/data engineering with scientific training in economics and physics. I am strongest where data, software, research judgment, and operational usefulness need to meet.
 
 ## What I build
 
-### 1. Live intelligence systems
-Production-style pipelines that ingest, structure, enrich, and publish information surfaces.
+### 1. AI/data automation systems
+
+Systems that acquire, structure, enrich, validate, and publish information.
 
 Examples:
-- news monitoring and editorial pipelines
-- automated acquisition and structuring workflows
-- public-facing information surfaces with live refresh
-- summarization and triage systems
+- news and media-monitoring pipelines
+- document-processing and retrieval workflows
+- LLM-assisted summarization, triage, and drafting systems
+- automation layers for repeated operational work
+- human-reviewable handoff surfaces
 
-### 2. Civic and public-data infrastructure
-Tools and data products for understanding institutions, territories, poverty, regulation, and public systems.
+### 2. Reliable knowledge and data infrastructure
 
-Examples:
-- poverty and census data pipelines
-- geographic and socioeconomic data products
-- legislative, institutional, and norms-monitoring prototypes
-- public-interest data tools for Argentina
-
-### 3. Research-to-product systems
-I turn technical and academic work into usable, inspectable artifacts.
+Interfaces and workflows that make multi-step data/AI systems inspectable and maintainable.
 
 Examples:
-- thesis-to-web and knowledge publication pipelines
-- analytical notebooks upgraded into products
-- reproducible document and knowledge workflows
-- documentation systems and public technical surfaces
+- schema-based contract buses
+- run records and observability indexes
+- reproducible pipelines
+- static/public publishing surfaces
+- documentation and handoff systems
 
-## Selected public surfaces
+### 3. Public-data and research-grade products
+
+Applied data products that translate complex datasets and research workflows into maps, reports, dashboards, and public-facing outputs.
+
+Examples:
+- poverty and household-survey data workflows
+- geographic and socioeconomic analysis
+- economic/public-data reporting
+- research-to-web publication pipelines
+- analytical notebooks upgraded into inspectable products
+
+## Selected public work
+
+Start here if you want to inspect my work from the outside.
 
 - **Main site:** [main.matuteiglesias.link](https://main.matuteiglesias.link)
-- **Tech profile:** [main.matuteiglesias.link/docs/General/tech](https://main.matuteiglesias.link/docs/General/tech)
-- **Civic profile:** [main.matuteiglesias.link/docs/General/civic](https://main.matuteiglesias.link/docs/General/civic)
+- **CV:** [main.matuteiglesias.link/docs/General/cv](https://main.matuteiglesias.link/docs/General/cv)
+- **AI & Data Systems profile:** [main.matuteiglesias.link/docs/General/tech](https://main.matuteiglesias.link/docs/General/tech)
 - **Media Monitor:** [mediamonitor-psi.vercel.app](https://mediamonitor-psi.vercel.app/)
-- **Poverty Atlas:** [argentine-poverty-atlas.vercel.app](http://matuteiglesias.link/Pobreza/)
+- **Knowledge / Data Contracts:** [kb-contracts.matuteiglesias.link](https://kb-contracts.matuteiglesias.link/)
 - **Thesis portal:** [thesis.matuteiglesias.link](https://thesis.matuteiglesias.link/)
-- **Dev journal:** [journal.matuteiglesias.link](https://journal.matuteiglesias.link/)
-
-## Background
-
-- Senior AI / data systems builder
-- PhD in Economics
-- MSc in Physics
-- Experience across public sector, consulting, research, and technical product building
+- **Developer journal / build log:** [journal.matuteiglesias.link](https://journal.matuteiglesias.link/)
 
 ## Working style
 
@@ -67,40 +63,47 @@ I care about systems that are:
 - modular
 - inspectable
 - reproducible
+- documented
 - operationally useful
+- honest about status, scope, and limitations
 - able to survive contact with real workflows
 
-I am especially interested in building tools that improve how people and institutions acquire, structure, and use information.
+I am especially interested in building tools that help people and organizations acquire, structure, retrieve, validate, and use information.
+
+## Background
+
+- Senior Data & AI Engineer
+- PhD in Economics
+- MSc in Physics
+- Experience across public sector, consulting, applied research, and technical product building
+- Main stack: Python, SQL, LLM APIs, RAG, BigQuery/GCP, CI/CD, static publishing, workflow automation
 
 ## Repository guide
 
-This profile brings together work across several recurring themes:
+They usually fall into these themes:
 
-- **AI + automation**
-- **data pipelines**
-- **knowledge systems**
-- **civic tech**
-- **economic and public-data analysis**
-- **publication infrastructure**
-
-Pinned repositories below are the best starting point.
+- AI/data automation
+- data pipelines
+- retrieval and knowledge systems
+- contract-based workflow reliability
+- public-data analysis
+- research-to-product infrastructure
+- documentation and publishing systems
 
 ## Contact
 
-- **GitHub:** [github.com/matuteiglesias](https://github.com/matuteiglesias)
 - **Main site:** [main.matuteiglesias.link](https://main.matuteiglesias.link)
-- **LinkedIn:** [matiasiglesias](www.linkedin.com/in/matiasiglesias/)
+- **LinkedIn:** [linkedin.com/in/matiasiglesias](https://www.linkedin.com/in/matiasiglesias/)
+- **GitHub:** [github.com/matuteiglesias](https://github.com/matuteiglesias)
 - **Email:** matuteiglesias@gmail.com
 
 ---
 
 ## En español
 
-Soy **ingeniero de sistemas de IA, científico de datos y economista**, y construyo sistemas que convierten información dispersa en productos utilizables: pipelines de noticias, herramientas cívicas, infraestructura de conocimiento, productos de datos públicos y automatizaciones operativas.
+Soy **Senior Data & AI Engineer**. Construyo sistemas confiables para datos, documentos, recuperación de información y automatización.
 
-Trabajo especialmente en la intersección entre:
+Trabajo con Python, SQL, APIs de LLMs, RAG, pipelines de datos, documentación técnica y workflows reproducibles para convertir información desordenada en infraestructura usable: datasets estructurados, sistemas de recuperación, dashboards, reportes, superficies públicas y herramientas asistidas por IA.
 
-- sistemas de IA y automatización
-- ingeniería de datos y pipelines de información
-- inteligencia cívica e institucional
+Mi formación combina ingeniería de software/datos con economía y física. Soy más fuerte en problemas donde datos, software, criterio analítico y utilidad operativa tienen que encontrarse.- inteligencia cívica e institucional
 - traducción de investigación en productos públicos
