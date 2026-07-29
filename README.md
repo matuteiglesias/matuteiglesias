@@ -1,109 +1,115 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   
-# M. I. Matías Iglesias
+# Matías Iglesias
 
-**Senior Data & AI Engineer building reliable systems for data, documents, retrieval, and automation.**
+**Senior Data & AI Engineer building governed AI systems, reliable data pipelines, and automation for real workflows.**
 
-I build Python/SQL systems that turn messy information into usable infrastructure: data pipelines, document-processing workflows, retrieval systems, dashboards, publishing workflows, and AI-assisted automation tools.
+I design and implement Python/SQL systems that turn fragmented data, documents, and operational processes into usable infrastructure: MCP and context gateways, retrieval and document pipelines, reproducible ML experiments, workflow automation, analytical products, and public-facing decision surfaces.
 
-My background combines software/data engineering with scientific training in economics and physics. I am strongest where data, software, research judgment, and operational usefulness need to meet.
+I usually work across the full path:
 
-## What I build
+```text
+messy problem
+→ explicit boundaries and contracts
+→ working software and data pipelines
+→ validation, evidence, and observability
+→ documentation and human handoff
+```
 
-### 1. AI/data automation systems
+My background combines engineering practice with a PhD in Economics and an MSc in Physics. I am strongest where software, data, research judgment, and operational usefulness need to meet.
 
-Systems that acquire, structure, enrich, validate, and publish information.
+[Main site](https://main.matuteiglesias.link/) ·
+[CV](https://main.matuteiglesias.link/docs/General/cv) ·
+[Developer journal](https://journal.matuteiglesias.link/) ·
+[Stack I actually use](https://github.com/matuteiglesias/awesome-automation)
 
-Examples:
-- news and media-monitoring pipelines
-- document-processing and retrieval workflows
-- LLM-assisted summarization, triage, and drafting systems
-- automation layers for repeated operational work
-- human-reviewable handoff surfaces
+## Selected systems
 
-### 2. Reliable knowledge and data infrastructure
+### [Matías Context MCP](https://github.com/matuteiglesias/matias-context-mcp)
 
-Interfaces and workflows that make multi-step data/AI systems inspectable and maintainable.
+A local, read-only MCP server and client that gives AI systems governed access to four independent knowledge sources without exposing arbitrary filesystem access.
 
-Examples:
-- schema-based contract buses
-- run records and observability indexes
-- reproducible pipelines
-- static/public publishing surfaces
-- documentation and handoff systems
+The project demonstrates logical resource design, capability negotiation, explicit mappings, path-containment and symlink defenses, bounded reads, provenance-rich responses, structured failures, tests, an acceptance probe, and real client/server use over `stdio`.
 
-### 3. Public-data and research-grade products
+### [Media Monitor](https://github.com/matuteiglesias/media_monitor)
 
-Applied data products that translate complex datasets and research workflows into maps, reports, dashboards, and public-facing outputs.
+A live news-intelligence and editorial pipeline organized around a practical operating path:
 
-Examples:
-- poverty and household-survey data workflows
-- geographic and socioeconomic analysis
-- economic/public-data reporting
-- research-to-web publication pipelines
-- analytical notebooks upgraded into inspectable products
+```text
+news acquisition → structured brief → draft → human last mile
+```
 
-## Selected public work
+It combines staged data processing, AI-assisted editorial workflows, public snapshots, explicit handoff surfaces, smoke checks, and a deployed publication interface.
 
-Start here if you want to inspect my work from the outside.
+[Open the live surface](https://mediamonitor-psi.vercel.app/)
 
-- **Main site:** [main.matuteiglesias.link](https://main.matuteiglesias.link)
-- **CV:** [main.matuteiglesias.link/docs/General/cv](https://main.matuteiglesias.link/docs/General/cv)
-- **AI & Data Systems profile:** [main.matuteiglesias.link/docs/General/tech](https://main.matuteiglesias.link/docs/General/tech)
-- **Media Monitor:** [mediamonitor-psi.vercel.app](https://mediamonitor-psi.vercel.app/)
-- **Knowledge / Data Contracts:** [kb-contracts.matuteiglesias.link](https://kb-contracts.matuteiglesias.link/)
-- **Thesis portal:** [thesis.matuteiglesias.link](https://thesis.matuteiglesias.link/)
-- **Developer journal / build log:** [journal.matuteiglesias.link](https://journal.matuteiglesias.link/)
+### [Accounting Workflows](https://github.com/matuteiglesias/accounting-workflows)
 
-## Working style
+A Python/SQL accounting spine that converts messy ledger inputs into canonical records, materialized views, metrics, drill-downs, and human-readable reports.
 
-I care about systems that are:
+The system emphasizes explicit stages, reproducible commands, structured logging, data-quality diagnostics, professional handoff artifacts, and a clear boundary between operational truth and presentation.
 
-- modular
-- inspectable
-- reproducible
-- documented
-- operationally useful
-- honest about status, scope, and limitations
-- able to survive contact with real workflows
+### [EPH Income Modeling](https://github.com/matuteiglesias/income-modeling-eph)
 
-I am especially interested in building tools that help people and organizations acquire, structure, retrieve, validate, and use information.
+A reproducible machine-learning experiment layer for income prediction using Argentina's Permanent Household Survey.
 
-## Background
+The repository separates upstream preprocessing from modeling responsibility and owns the target and feature contracts, leakage exclusions, split registry, guarded training runs, metrics, and thesis-ready evidence.
 
-- Senior Data & AI Engineer
-- PhD in Economics
-- MSc in Physics
-- Experience across public sector, consulting, applied research, and technical product building
-- Main stack: Python, SQL, LLM APIs, RAG, BigQuery/GCP, CI/CD, static publishing, workflow automation
+### Governed knowledge and document infrastructure
 
-## Repository guide
+A set of independently useful repositories connected through explicit contracts rather than one shared internal architecture:
 
-They usually fall into these themes:
+- [KB Contracts](https://github.com/matuteiglesias/kb-contracts) — shared schemas, manifests, run records, stable IDs, publishing contracts, and integration rules;
+- [Knowledge Inspect](https://github.com/matuteiglesias/knowledge-inspect) — ingestion and analysis seams for chat and paper-derived knowledge artifacts;
+- [KB Artifacts](https://github.com/matuteiglesias/gpt-digests) — deterministic, read-only evidence selection with provenance and manifests.
 
-- AI/data automation
-- data pipelines
-- retrieval and knowledge systems
-- contract-based workflow reliability
-- public-data analysis
-- research-to-product infrastructure
-- documentation and publishing systems
+The MCP gateway is the narrow access layer over this ecosystem; the source systems remain authoritative.
+
+### [FCV spatial-data research onboarding](https://github.com/matuteiglesias/fcv-spatial-data-research-onboarding)
+
+A research data-engineering and collaboration surface built around a recovered archive of survey, conflict, service-delivery, public-works, and spatial data.
+
+It maps datasets, notebooks, reusable outputs, validation state, and the path from archive recovery to renewed analysis without rewriting or obscuring the original evidence.
+
+## How I engineer systems
+
+- **Small, reliable components over invented universal platforms.**
+- **Logical identities and provenance over hidden path knowledge.**
+- **Bounded access and explicit authority over convenient overexposure.**
+- **Contracts, run records, checks, and evidence over undocumented success.**
+- **Human-reviewable handoffs over opaque automation.**
+- **Incremental delivery with honest scope and clearly stated non-goals.**
+
+## Stack
+
+My core working stack includes Python, SQL, Bash, pandas, scikit-learn, REST APIs, LLM APIs, MCP, RAG, LangChain, ChromaDB, JSON Schema, SQLite/PostgreSQL, BigQuery, FastAPI/Flask, Docker, GitHub Actions, Next.js, Docusaurus, and Vercel.
+
+The evidence-backed catalog is here:
+
+**[Awesome Automation I Actually Use](https://github.com/matuteiglesias/awesome-automation)** — 80 tools, formats, platforms, and operating principles tied to public repositories and field notes.
+
+## Research depth
+
+Research is part of my foundation, not the main organization of this profile.
+
+- **[PhD thesis portal](https://thesis.matuteiglesias.link/)** — long-form proof of my ability to study a difficult problem deeply, develop original arguments, and sustain a multi-year analytical programme.
+- **[Concentration Is Not Scaling](https://github.com/matuteiglesias/concentration-is-not-scaling)** — a current reproducibility repository with formal results, deterministic demonstrations, identity tests, manuscript builds, and release artifacts.
+- **Earlier economic-geography tools:** [geo-correlation-structures](https://github.com/matuteiglesias/geo-correlation-structures), [pRCA](https://github.com/matuteiglesias/pRCA), and [spatial-coexistence-metrics](https://github.com/matuteiglesias/spatial-coexistence-metrics).
+
+My academic path includes research experience at the Harvard Kennedy School Growth Lab and Caltech, alongside applied work in economics, public data, and spatial analysis.
+
+## Teaching
+
+I teach computer science and data-oriented university courses at the University of Buenos Aires.
+
+- **[Evaluar App](https://github.com/matuteiglesias/evaluar-app)** — an extensible platform for exercises, student questions, tutoring workflows, and AI-assisted feedback.
+- **[Computational Linear Algebra](https://github.com/matuteiglesias/labo-algebra-lineal)** — notebooks, code, datasets, and laboratory material connecting numerical linear algebra with practical computation.
 
 ## Contact
 
-- **Main site:** [main.matuteiglesias.link](https://main.matuteiglesias.link)
-- **LinkedIn:** [linkedin.com/in/matiasiglesias](https://www.linkedin.com/in/matiasiglesias/)
-- **GitHub:** [github.com/matuteiglesias](https://github.com/matuteiglesias)
-- **Email:** matuteiglesias@gmail.com
+Buenos Aires, Argentina · English and Spanish
 
----
-
-## En español
-
-Soy **Senior Data & AI Engineer**. Construyo sistemas confiables para datos, documentos, recuperación de información y automatización.
-
-Trabajo con Python, SQL, APIs de LLMs, RAG, pipelines de datos, documentación técnica y workflows reproducibles para convertir información desordenada en infraestructura usable: datasets estructurados, sistemas de recuperación, dashboards, reportes, superficies públicas y herramientas asistidas por IA.
-
-Mi formación combina ingeniería de software/datos con economía y física. Soy más fuerte en problemas donde datos, software, criterio analítico y utilidad operativa tienen que encontrarse.- inteligencia cívica e institucional
-- traducción de investigación en productos públicos
+[LinkedIn](https://www.linkedin.com/in/matiasiglesias/) ·
+[GitHub](https://github.com/matuteiglesias) ·
+[Email](mailto:matuteiglesias@gmail.com)
