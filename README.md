@@ -56,15 +56,27 @@ The interesting part is not report generation. The system progressively replaces
 
 ### [Media Monitor](https://github.com/matuteiglesias/media_monitor)
 
-A live news-intelligence and editorial pipeline organized around a practical operating path:
+A **deployed governed news-intelligence and editorial publishing system** for Argentina. Its public path is broader than “generate a draft”:
 
 ```text
-news acquisition → structured brief → draft → human last mile
+source ingestion
+→ immutable run artifacts and versioned contracts
+→ deterministic indexes
+→ AI-assisted editorial briefs / drafts
+→ explicit human publication gate
+→ published_article.v1
+→ publication-aware site_snapshot.v2
+→ request-time freshness health
+→ guarded scheduled deployment
 ```
 
-It combines staged acquisition and enrichment, AI-assisted editorial workflows, explicit snapshot identities, public data contracts, publication validation, browser-level documentation checks, and a deployed reading surface.
+The public outlet deliberately separates monitored external-source signals from Media Monitor editorial analysis. A generated draft is never treated as publication authority, and “live/current” is not inferred from the existence of a URL: the public health surface owns freshness truth.
 
-[Open the live surface](https://mediamonitor-psi.vercel.app/)
+[Open the canonical outlet](https://mediamonitor-psi.vercel.app/) ·
+[Check public health](https://mediamonitor-psi.vercel.app/api/health) ·
+[Read the documentation](https://github.com/matuteiglesias/media_monitor/tree/main/docs)
+
+A representative editorial article is intentionally not claimed yet: the first C3 tranche exercised the real promotion/index machinery in isolation without manufacturing `human_approved`. The first article belongs here only after an explicit human publication decision.
 
 ### [Evaluar App](https://github.com/matuteiglesias/evaluar-app)
 
