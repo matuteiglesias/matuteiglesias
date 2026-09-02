@@ -21,6 +21,17 @@ My background combines engineering practice with a **PhD in Economics** and an *
 [Developer journal](https://journal.matuteiglesias.link/) ·
 [Stack I actually use](https://github.com/matuteiglesias/awesome-automation)
 
+## Current engineering surface
+
+Recent work has concentrated on turning public-data and research pipelines into governed, reproducible systems rather than one-off analyses:
+
+- **[IPC Argentina](https://github.com/matuteiglesias/IPC-Argentina)** now builds a source-backed national inflation consensus from a curated panel of official provincial series. The pipeline locks parser/source identities, preserves acquisition evidence, validates contributors independently, compares the new methodology against the historical series, and publishes immutable candidate releases behind an explicit maturity gate. Live adapters include exact parsing of Córdoba's official series and Neuquén's official calculator JSON API.
+- **[samplerCensoARG](https://github.com/matuteiglesias/samplerCensoARG)** has been reworked around a vintage-neutral Census frame and deterministic household-selection kernel. It separates donor microdata custody from target-year population controls, supports governed 2024/2025 target-year releases, proves reference/streaming backend equivalence, and exposes a non-materializing planner so operators can validate sample plans before touching large local data.
+- **[EPH Income Modeling](https://github.com/matuteiglesias/income-modeling-eph)** now has an exact durable EPH-parent intake boundary, a neutral analysis frame, household-grouped split primitives, and a governed reconstruction of the income-study cohort. Research semantics remain separate from Census scoring/runtime concerns.
+- **[Accounting Workflows](https://github.com/matuteiglesias/accounting-workflows)** now carries transaction-evidence status into professional drill-downs through an optional validated sidecar, making linked, review-needed, and missing evidence visible instead of silently collapsing documentary uncertainty into accounting outputs.
+
+That pattern—**source authority → explicit contract → deterministic transformation → independent checks → durable release or review surface**—is increasingly the common architecture across my public work.
+
 ## Selected systems
 
 ### [Matías Context MCP](https://github.com/matuteiglesias/matias-context-mcp)
@@ -52,7 +63,7 @@ The current system can characterize what its empirical design is capable of obse
 
 A Python/SQL accounting and analytical-data system that turns messy ledger evidence into governed semantic marts, debt and cash positions, reconciled treasury flows, metrics, drill-downs, and professional reports.
 
-The interesting part is not report generation. The system progressively replaces competing historical definitions with explicit typed authorities, preserves native-currency and stock-vs-flow semantics, reconciles downstream products to physical accounting motors, exposes residuals instead of hiding them, and protects those decisions with a large regression suite.
+The system progressively replaces competing historical definitions with explicit typed authorities, preserves native-currency and stock-vs-flow semantics, reconciles downstream products to physical accounting motors, exposes residuals instead of hiding them, and protects those decisions with regression tests. Documentary evidence is now modeled as an optional validated relation rather than being conflated with ledger truth, so professional drill-downs can expose evidence coverage and review state explicitly.
 
 ### [Media Monitor](https://github.com/matuteiglesias/media_monitor)
 
@@ -76,13 +87,23 @@ The public outlet deliberately separates monitored external-source signals from 
 [Check public health](https://mediamonitor-psi.vercel.app/api/health) ·
 [Read the documentation](https://github.com/matuteiglesias/media_monitor/tree/main/docs)
 
-A representative editorial article is intentionally not claimed yet: the first C3 tranche exercised the real promotion/index machinery in isolation without manufacturing `human_approved`. The first article belongs here only after an explicit human publication decision.
-
 ### [Evaluar App](https://github.com/matuteiglesias/evaluar-app)
 
 A production-shaped teaching and content platform built around immutable versioned exercises, complete course publications, course-scoped membership, Google OpenID Connect, deterministic content compilation, checksum-verified atomic publishing, optional tutoring/support workflows, PostgreSQL, and explicit operational readiness gates.
 
 The project retains its older Flask implementation as characterized compatibility history while the packaged production runtime is Django.
+
+## Public-data production systems
+
+### [IPC Argentina](https://github.com/matuteiglesias/IPC-Argentina)
+
+A governed inflation-series pipeline built from official Argentine provincial sources. The current v2 path separates source acquisition, locked parser identity, contributor eligibility, consensus construction, conversion, scientific comparison, release preflight, and publication. Candidate releases are immutable and source-backed; insufficient contributor maturity remains visible rather than being papered over.
+
+### [samplerCensoARG](https://github.com/matuteiglesias/samplerCensoARG)
+
+A bounded producer of deterministic Census household samples. Its newer frame architecture is feature-independent and vintage-neutral: Census identity and custody remain upstream of any EPH-compatible modeling projection. The same selection semantics can be exercised through reference and streaming backends, with explicit parity tests and target-population controls.
+
+These components are part of a larger Census/EPH modeling path alongside [eph-censo-aligner](https://github.com/matuteiglesias/eph-censo-aligner) and [income-modeling-eph](https://github.com/matuteiglesias/income-modeling-eph). The important boundary is deliberate: sampling, semantic alignment, and modeling are separate authorities rather than one script that silently owns all three.
 
 ## Reusable libraries and infrastructure
 
@@ -102,11 +123,11 @@ Reusable spatial/time infrastructure for research systems: geography authority, 
 
 A deterministic, read-only evidence-selection and corpus-exploration package with typed JSON queries, source profiles, `describe/facet/count/sample` operations, provenance-rich manifests, staged atomic promotion, CLI and public API surfaces, and installed-distribution verification.
 
-Together with [KB Contracts](https://github.com/matuteiglesias/kb-contracts), [Knowledge Inspect](https://github.com/matuteiglesias/knowledge-inspect), and Context MCP, these repositories form a governed knowledge path without collapsing source authority into one monolithic application.
+Together with [KB Contracts](https://github.com/matuteiglesias/kb-contracts), [Knowledge Inspect](https://github.com/matuteiglesias/knowledge-inspect), and Context MCP, these repositories form a governed knowledge path without collapsing source authority into one monolithic application. Knowledge Inspect also now includes bounded index/query consumers for speech-like text chunks, keeping retrieval identity explicit instead of hiding it behind an opaque application layer.
 
 ## Applied modeling and consulting cases
 
-- **[EPH Income Modeling](https://github.com/matuteiglesias/income-modeling-eph)** — reproducible ML experiments for income prediction on Argentina's Permanent Household Survey, with explicit target/feature contracts, leakage exclusions, split registry, guarded training runs, and evidence packaging.
+- **[EPH Income Modeling](https://github.com/matuteiglesias/income-modeling-eph)** — reproducible ML experiments for income prediction on Argentina's Permanent Household Survey, with exact parent-release intake, a neutral analysis frame, household-grouped splits, explicit target/feature contracts, leakage exclusions, guarded training runs, and evidence packaging.
 - **[GitHub Stars Consulting Case](https://github.com/matuteiglesias/consulting-case-github-stars)** — a time-constrained analytics case that separates prediction, description, and interpretation; requires feature-timing review; and keeps the notebook as a thin presentation layer over validated artifacts.
 - **[Bank Marketing Consulting Sprint](https://github.com/matuteiglesias/bank_marketing_consulting)** — a stage-gated analytical execution bundle from data audit through modeling and operational targeting policy, with explicit machine/human responsibility boundaries.
 
