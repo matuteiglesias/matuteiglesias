@@ -6,6 +6,8 @@ I work where **data engineering, applied AI, research judgment, and production r
 
 [Portfolio](https://main.matuteiglesias.link/) · [CV](https://main.matuteiglesias.link/docs/General/cv) · [LinkedIn](https://www.linkedin.com/in/matiasiglesias/) · [Developer journal](https://journal.matuteiglesias.link/)
 
+**Book (2026):** [*Mathematics and Economics of Aggregation*](https://main.matuteiglesias.link/books/mathematics-and-economics-of-aggregation) — an eight-chapter mathematical synthesis of heterogeneity, economic aggregation, covariance, networks and scaling.
+
 ## Selected systems
 
 ### [Argentina Poverty Measurement & Atlas](https://github.com/matuteiglesias/argentina-poverty-atlas)
